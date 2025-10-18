@@ -1,0 +1,68 @@
+[
+  {
+    "id": "bank-a-42",
+    "provider": "Bank A Micro",
+    "rail": "BANK",
+    "section": "Tariff",
+    "title": "Card transfer fee",
+    "clause": "A 5% fee is charged on disbursement when transferring a microloan to card.",
+    "citation": "Tariff 4.2 (public page, 2025)",
+    "sourceHint": "Transfer-to-card fee; upfront; 5 percent",
+    "tags": ["upfront", "transfer", "card", "5%"]
+  },
+  {
+    "id": "bank-a-43",
+    "provider": "Bank A Micro",
+    "rail": "BANK",
+    "section": "Loan terms",
+    "title": "Monthly interest rate",
+    "clause": "Interest accrues daily based on a 2% monthly rate applied to the outstanding principal balance.",
+    "citation": "Loan terms §3 (contract appendix)",
+    "sourceHint": "2% per month interest daily accrual",
+    "tags": ["interest", "monthly", "2%", "daily"]
+  },
+  {
+    "id": "bank-a-44",
+    "provider": "Bank A Micro",
+    "rail": "BANK",
+    "section": "General terms",
+    "title": "Early repayment",
+    "clause": "Borrowers may repay early without penalty. Interest is calculated only for days held.",
+    "citation": "General terms §7.1",
+    "sourceHint": "No early repayment penalty",
+    "tags": ["early", "repayment", "penalty", "flexibility"]
+  },
+  {
+    "id": "bank-a-45",
+    "provider": "Bank A Micro",
+    "rail": "BANK",
+    "section": "Risk disclosure",
+    "title": "Late payment fees",
+    "clause": "A late payment fee of 0.5% per day applies to overdue amounts, capped at 20% of principal.",
+    "citation": "Risk disclosure §5.2",
+    "sourceHint": "Late fee 0.5% daily max 20%",
+    "tags": ["late", "penalty", "overdue", "0.5%"]
+  },
+  {
+    "id": "bank-a-46",
+    "provider": "Bank A Micro",
+    "rail": "BANK",
+    "section": "Eligibility",
+    "title": "Minimum credit score",
+    "clause": "Applicants must have a credit score of at least 450 to qualify for microloans.",
+    "citation": "Eligibility criteria §2.1",
+    "sourceHint": "Credit score requirement 450 minimum",
+    "tags": ["score", "credit", "eligibility", "450"]
+  },
+  {
+    "id": "bank-a-47",
+    "provider": "Bank A Micro",
+    "rail": "BANK",
+    "section": "Disbursement",
+    "title": "Funding timeline",
+    "clause": "Approved loans are typically disbursed within 24 hours to the borrower's linked card.",
+    "citation": "Disbursement policy §1.3",
+    "sourceHint": "24 hour disbursement card transfer",
+    "tags": ["disbursement", "timeline", "24h", "card"]
+  }
+]

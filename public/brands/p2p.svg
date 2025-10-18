@@ -1,0 +1,7 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="15" cy="20" r="5" fill="#9CA3AF"/>
+  <circle cx="25" cy="20" r="5" fill="#9CA3AF"/>
+  <line x1="20" y1="20" x2="30" y2="20" stroke="#9CA3AF" stroke-width="2"/>
+  <text x="40" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#9CA3AF">P2P POOL</text>
+</svg>
+

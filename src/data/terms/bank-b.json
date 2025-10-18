@@ -1,0 +1,68 @@
+[
+  {
+    "id": "bank-b-10",
+    "provider": "Bank B Lite",
+    "rail": "BANK",
+    "section": "Promo bulletin",
+    "title": "Zero disbursement fee",
+    "clause": "No fee is charged when funds are sent to your account during the promotional period.",
+    "citation": "Promo bulletin (Q1 2025)",
+    "sourceHint": "0% disbursement fee no upfront charge",
+    "tags": ["upfront", "disbursement", "0%", "promo"]
+  },
+  {
+    "id": "bank-b-11",
+    "provider": "Bank B Lite",
+    "rail": "BANK",
+    "section": "Public offer",
+    "title": "Higher interest rate",
+    "clause": "Interest rate is set at 3.5% per month to offset the zero upfront fee structure.",
+    "citation": "Public offer §3.1",
+    "sourceHint": "3.5% per month interest higher rate",
+    "tags": ["interest", "monthly", "3.5%", "rate"]
+  },
+  {
+    "id": "bank-b-12",
+    "provider": "Bank B Lite",
+    "rail": "BANK",
+    "section": "Terms of service",
+    "title": "Automatic repayment",
+    "clause": "Repayment is automatically debited from the linked account on the due date.",
+    "citation": "Terms of service §6.4",
+    "sourceHint": "Auto debit repayment linked account",
+    "tags": ["repayment", "automatic", "debit", "due"]
+  },
+  {
+    "id": "bank-b-13",
+    "provider": "Bank B Lite",
+    "rail": "BANK",
+    "section": "Fees schedule",
+    "title": "Missed payment penalty",
+    "clause": "A flat fee of 50,000 UZS applies for each missed payment, plus daily interest.",
+    "citation": "Fees schedule §2.3",
+    "sourceHint": "Missed payment 50000 UZS flat penalty",
+    "tags": ["penalty", "missed", "late", "50000"]
+  },
+  {
+    "id": "bank-b-14",
+    "provider": "Bank B Lite",
+    "rail": "BANK",
+    "section": "Limits",
+    "title": "Maximum loan amount",
+    "clause": "Loans are capped at 20 million UZS for borrowers without collateral.",
+    "citation": "Limits policy §1.2",
+    "sourceHint": "Max 20 million UZS no collateral",
+    "tags": ["limit", "maximum", "20m", "uncollateralized"]
+  },
+  {
+    "id": "bank-b-15",
+    "provider": "Bank B Lite",
+    "rail": "BANK",
+    "section": "Privacy",
+    "title": "Credit bureau reporting",
+    "clause": "Payment history is reported to credit bureaus monthly to help build your credit score.",
+    "citation": "Privacy policy §4.5",
+    "sourceHint": "Credit bureau reporting monthly score building",
+    "tags": ["credit", "bureau", "reporting", "score"]
+  }
+]

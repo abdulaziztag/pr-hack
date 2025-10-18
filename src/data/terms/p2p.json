@@ -1,0 +1,79 @@
+[
+  {
+    "id": "p2p-01",
+    "provider": "FairLend P2P Pool",
+    "rail": "P2P",
+    "section": "P2P market quote",
+    "title": "Daily interest rate",
+    "clause": "Interest is calculated at approximately 0.1% per day based on lender pledges and market conditions.",
+    "citation": "P2P market quote (live rate)",
+    "sourceHint": "0.1% daily rate P2P lender pledges",
+    "tags": ["interest", "daily", "0.1%", "rate"]
+  },
+  {
+    "id": "p2p-02",
+    "provider": "FairLend P2P Pool",
+    "rail": "P2P",
+    "section": "Platform terms",
+    "title": "No upfront fees",
+    "clause": "The P2P platform does not charge borrowers any upfront or disbursement fees.",
+    "citation": "Platform terms §2.1",
+    "sourceHint": "No upfront fees zero disbursement",
+    "tags": ["upfront", "0%", "disbursement", "no-fee"]
+  },
+  {
+    "id": "p2p-03",
+    "provider": "FairLend P2P Pool",
+    "rail": "P2P",
+    "section": "Hackathon demo",
+    "title": "Escrow simulation",
+    "clause": "For demonstration purposes, no real funds are moved. All transactions are simulated in escrow.",
+    "citation": "Hackathon demo notice",
+    "sourceHint": "Demo only simulation no real funds",
+    "tags": ["demo", "simulation", "escrow", "test"]
+  },
+  {
+    "id": "p2p-04",
+    "provider": "FairLend P2P Pool",
+    "rail": "P2P",
+    "section": "Lender agreement",
+    "title": "Pledge matching",
+    "clause": "Multiple lenders pledge funds which are pooled and matched to borrower requests automatically.",
+    "citation": "Lender agreement §3.2",
+    "sourceHint": "Multiple lenders pledge pool matching",
+    "tags": ["lender", "pledge", "pool", "matching"]
+  },
+  {
+    "id": "p2p-05",
+    "provider": "FairLend P2P Pool",
+    "rail": "P2P",
+    "section": "Risk disclosure",
+    "title": "Flexible terms",
+    "clause": "P2P loans offer flexible terms from 5 to 45 days, with no prepayment penalty.",
+    "citation": "Risk disclosure §1.4",
+    "sourceHint": "5 to 45 days flexible no prepayment penalty",
+    "tags": ["term", "flexible", "5-45", "days"]
+  },
+  {
+    "id": "p2p-06",
+    "provider": "FairLend P2P Pool",
+    "rail": "P2P",
+    "section": "Default handling",
+    "title": "Late payment process",
+    "clause": "Late payments trigger a grace period of 3 days before default procedures begin.",
+    "citation": "Default handling §7.1",
+    "sourceHint": "3 day grace period late payment default",
+    "tags": ["late", "grace", "3-days", "default"]
+  },
+  {
+    "id": "p2p-07",
+    "provider": "FairLend P2P Pool",
+    "rail": "P2P",
+    "section": "Release conditions",
+    "title": "Escrow release policy",
+    "clause": "Funds are released to lenders only after borrower confirmation, cooling-off period, and dispute check.",
+    "citation": "Release conditions §5.2",
+    "sourceHint": "Escrow release confirmation cooling-off dispute",
+    "tags": ["escrow", "release", "conditions", "confirmation"]
+  }
+]
